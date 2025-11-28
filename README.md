@@ -14,11 +14,14 @@
 
 Tech Stack
 
-WordPress backend basics
+-WordPress backend basics
 
 Backend
-Python • Django • Django REST Framework
-SQLite • PostgreSQL
+-Python  
+-Django 
+-Django REST Framework
+-SQLite3 
+-PostgreSQL
 
 Frontend
 HTML 
@@ -55,9 +58,9 @@ Setting up dashboards and admin functionalities
 -REST API and DRF projects 
 -Frontend + Backend integrated applications
 
-📫 How to Reach Me
-Email: uwabezaejidia94@gmail.com
-LinkedIn:https://www.linkedin.com/in/uwabeza-ejidia
+How to Reach Me
+-Email: uwabezaejidia94@gmail.com
+-LinkedIn:https://www.linkedin.com/in/uwabeza-ejidia
 
 ⚡ Fun Facts
 I love solving tech errors, even when they crash the whole app 
