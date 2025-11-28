@@ -14,7 +14,7 @@
 
 Tech Stack
 
--WordPress backend basics
+-WordPress basics
 
 Backend
 -Python  
