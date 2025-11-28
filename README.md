@@ -45,7 +45,7 @@ Tools
 -Notion
 -Render
 
-💬 Ask Me About
+   Ask Me About
 Building Django apps from scratch
 API development & serializers
 Role-based permissions and access control
