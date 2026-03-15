@@ -1,4 +1,4 @@
-👋 Hi there, I'm Uwabeza Ejidia
+👋 Hi there, I'm Elaguha Regis
 💻 Django Developer | Full-Stack Learner | Tech Enthusiast
  I’m passionate about building practical systems, learning new technologies, and solving real-world problems step by step. I started my tech journey from scratch and have grown into building full web applications, dashboards, and automation tools.
 
@@ -22,6 +22,7 @@ Backend
 -Django REST Framework
 -SQLite3 
 -PostgreSQL
+-.net
 
 Frontend
 HTML 
@@ -29,6 +30,7 @@ HTML
 -JavaScript
 -React 
 -Bootstrap and Tailwind
+-.net
 
 Testing / Automation
 -Pytest 
@@ -44,6 +46,7 @@ Tools
 -Excel 
 -Notion
 -Render
+-Microsoft Azure
 
    Ask Me About
 Building Django apps from scratch
@@ -59,8 +62,8 @@ Setting up dashboards and admin functionalities
 -Frontend + Backend integrated applications
 
 How to Reach Me
--Email: uwabezaejidia94@gmail.com
--LinkedIn:https://www.linkedin.com/in/uwabeza-ejidia
+-Email: elaguharegis@gmail.com
+-LinkedIn:https://www.linkedin.com/in/elaguha-rejisi-07050b241/
 
 ⚡ Fun Facts
 I love solving tech errors, even when they crash the whole app 
