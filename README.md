@@ -1,4 +1,4 @@
-👋 Hi there, I'm Elaguha Regis
+👋 Hi there, I'm Ejidia Uwabeza
 💻 Django Developer | Full-Stack Learner | Tech Enthusiast
  I’m passionate about building practical systems, learning new technologies, and solving real-world problems step by step. I started my tech journey from scratch and have grown into building full web applications, dashboards, and automation tools.
 
