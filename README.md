@@ -62,8 +62,8 @@ Setting up dashboards and admin functionalities
 -Frontend + Backend integrated applications
 
 How to Reach Me
--Email: elaguharegis@gmail.com
--LinkedIn:https://www.linkedin.com/in/elaguha-rejisi-07050b241/
+-Email: uwabezaejidia94@gmail.com
+-LinkedIn:https://www.linkedin.com/in/uwabeza-ejidia/
 
 ⚡ Fun Facts
 I love solving tech errors, even when they crash the whole app 
