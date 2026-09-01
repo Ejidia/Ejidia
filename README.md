@@ -12,42 +12,6 @@
 -Personal Portfolio Website
 -Custom Chatbox Project
 
-Tech Stack
-
--WordPress basics
-
-Backend
--Python  
--Django 
--Django REST Framework
--SQLite3 
--PostgreSQL
--.net
-
-Frontend
-HTML 
--CSS 
--JavaScript
--React 
--Bootstrap and Tailwind
--.net
-
-Testing / Automation
--Pytest 
--Selenium 
--Behave (BDD)
-
-Tools
--Git & GitHub
--VS Code
--Railway 
--Netlify
--Word  
--Excel 
--Notion
--Render
--Microsoft Azure
-
    Ask Me About
 Building Django apps from scratch
 API development & serializers
